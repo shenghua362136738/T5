@@ -6,6 +6,7 @@ public class TestEGit {
 	
 		System.out.println(",,,,,,,,,,,,");
 		System.out.println("shabi");
+		System.out.println("shabi");
 	}
 	
 
